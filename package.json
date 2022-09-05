@@ -1,0 +1,22 @@
+{
+  "name": "d3_github_actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryBcit/d3_github_actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryBcit/d3_github_actions/issues"
+  },
+  "homepage": "https://github.com/HenryBcit/d3_github_actions#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
